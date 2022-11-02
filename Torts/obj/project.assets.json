@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\vipal\\.nuget\\packages\\": {}
+    "C:\\Users\\Алексей\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vipal\\source\\repos\\Torts\\Torts\\Torts.csproj",
+      "projectUniqueName": "C:\\Users\\Алексей\\OneDrive\\Рабочий стол\\tort\\Torts\\Torts.csproj",
       "projectName": "Torts",
-      "projectPath": "C:\\Users\\vipal\\source\\repos\\Torts\\Torts\\Torts.csproj",
-      "packagesPath": "C:\\Users\\vipal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vipal\\source\\repos\\Torts\\Torts\\obj\\",
+      "projectPath": "C:\\Users\\Алексей\\OneDrive\\Рабочий стол\\tort\\Torts\\Torts.csproj",
+      "packagesPath": "C:\\Users\\Алексей\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Алексей\\OneDrive\\Рабочий стол\\tort\\Torts\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\vipal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Алексей\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

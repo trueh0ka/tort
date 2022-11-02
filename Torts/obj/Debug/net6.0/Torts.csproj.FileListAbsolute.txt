@@ -13,3 +13,33 @@ C:\Users\vipal\source\repos\Torts\Torts\obj\Debug\net6.0\refint\Torts.dll
 C:\Users\vipal\source\repos\Torts\Torts\obj\Debug\net6.0\Torts.pdb
 C:\Users\vipal\source\repos\Torts\Torts\obj\Debug\net6.0\Torts.genruntimeconfig.cache
 C:\Users\vipal\source\repos\Torts\Torts\obj\Debug\net6.0\ref\Torts.dll
+C:\Users\arche\OneDrive\Рабочий стол\tort\Torts\bin\Debug\net6.0\Torts.exe
+C:\Users\arche\OneDrive\Рабочий стол\tort\Torts\bin\Debug\net6.0\Torts.deps.json
+C:\Users\arche\OneDrive\Рабочий стол\tort\Torts\bin\Debug\net6.0\Torts.runtimeconfig.json
+C:\Users\arche\OneDrive\Рабочий стол\tort\Torts\bin\Debug\net6.0\Torts.dll
+C:\Users\arche\OneDrive\Рабочий стол\tort\Torts\bin\Debug\net6.0\Torts.pdb
+C:\Users\arche\OneDrive\Рабочий стол\tort\Torts\obj\Debug\net6.0\Torts.csproj.AssemblyReference.cache
+C:\Users\arche\OneDrive\Рабочий стол\tort\Torts\obj\Debug\net6.0\Torts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arche\OneDrive\Рабочий стол\tort\Torts\obj\Debug\net6.0\Torts.AssemblyInfoInputs.cache
+C:\Users\arche\OneDrive\Рабочий стол\tort\Torts\obj\Debug\net6.0\Torts.AssemblyInfo.cs
+C:\Users\arche\OneDrive\Рабочий стол\tort\Torts\obj\Debug\net6.0\Torts.csproj.CoreCompileInputs.cache
+C:\Users\arche\OneDrive\Рабочий стол\tort\Torts\obj\Debug\net6.0\Torts.dll
+C:\Users\arche\OneDrive\Рабочий стол\tort\Torts\obj\Debug\net6.0\refint\Torts.dll
+C:\Users\arche\OneDrive\Рабочий стол\tort\Torts\obj\Debug\net6.0\Torts.pdb
+C:\Users\arche\OneDrive\Рабочий стол\tort\Torts\obj\Debug\net6.0\Torts.genruntimeconfig.cache
+C:\Users\arche\OneDrive\Рабочий стол\tort\Torts\obj\Debug\net6.0\ref\Torts.dll
+C:\Users\Алексей\OneDrive\Рабочий стол\tort\Torts\bin\Debug\net6.0\Torts.exe
+C:\Users\Алексей\OneDrive\Рабочий стол\tort\Torts\bin\Debug\net6.0\Torts.deps.json
+C:\Users\Алексей\OneDrive\Рабочий стол\tort\Torts\bin\Debug\net6.0\Torts.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Рабочий стол\tort\Torts\bin\Debug\net6.0\Torts.dll
+C:\Users\Алексей\OneDrive\Рабочий стол\tort\Torts\bin\Debug\net6.0\Torts.pdb
+C:\Users\Алексей\OneDrive\Рабочий стол\tort\Torts\obj\Debug\net6.0\Torts.csproj.AssemblyReference.cache
+C:\Users\Алексей\OneDrive\Рабочий стол\tort\Torts\obj\Debug\net6.0\Torts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Рабочий стол\tort\Torts\obj\Debug\net6.0\Torts.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Рабочий стол\tort\Torts\obj\Debug\net6.0\Torts.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Рабочий стол\tort\Torts\obj\Debug\net6.0\Torts.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Рабочий стол\tort\Torts\obj\Debug\net6.0\Torts.dll
+C:\Users\Алексей\OneDrive\Рабочий стол\tort\Torts\obj\Debug\net6.0\refint\Torts.dll
+C:\Users\Алексей\OneDrive\Рабочий стол\tort\Torts\obj\Debug\net6.0\Torts.pdb
+C:\Users\Алексей\OneDrive\Рабочий стол\tort\Torts\obj\Debug\net6.0\Torts.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Рабочий стол\tort\Torts\obj\Debug\net6.0\ref\Torts.dll
